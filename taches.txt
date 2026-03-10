@@ -1,1 +1,2 @@
 1-Collecte,nettoyage et préparation des données pour l'entrainement des modèles
+2-Conception et implémentation de modèle de machine learning ouu deep learning
