@@ -1,1 +1,5 @@
+
 3-Evaluation des performances des modèles à l'aide de métriques appropriés(accuracy,précision,rappel,F1-score,etc.).
+1-Collecte,nettoyage et préparation des données pour l'entrainement des modèles
+2-Conception et implémentation de modèle de machine learning ouu deep learning
+
